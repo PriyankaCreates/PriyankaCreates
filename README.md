@@ -1,7 +1,7 @@
 # Hi! I'm Priyanka!
 **Generative AI Engineer in the making || LLMs • Transformers • RAG || CS @ BITS Pilani**
 
-📫 **Reach out:** priyankaaabanik@gmail.com ~ happy to connect on research, GenAI projects, or collaborations.
+📫 **Reach out:** priyankaaabanik@gmail.com ~ happy to connect on research, projects, or collaborations.
 
 <!-- Snake Game Repo View -->
 
