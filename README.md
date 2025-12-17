@@ -1,7 +1,7 @@
 # Hi! I'm Priyanka! <img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif">
 **Generative AI Engineer in the making || LLMs • Transformers • RAG || CS @ BITS Pilani**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> **Reach out:** priyankaaabanik@gmail.com  ~ happy to connect on research, projects, or collaborations.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> **Reach out:** priyankaaaabanik@gmail.com  ~ happy to connect on research, projects, or collaborations.
 <!-- Snake Game Repo View -->
 
 <div align="center">
